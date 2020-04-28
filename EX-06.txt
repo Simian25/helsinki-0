@@ -1,0 +1,4 @@
+browser -> server: HTTP POST https://fullstack-exampleapp.herokuapp.com/new_note_spa
+server --> browser: status code 201
+note over browser:
+The browser uses javascript to add the form input to the notes list
